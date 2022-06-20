@@ -1,3 +1,4 @@
 # test-c
 testc#
-Old .NET project from 02.2019
+Old .NET and SQL project from 02.2019
+App for car rental
